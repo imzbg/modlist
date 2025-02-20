@@ -10,65 +10,18 @@
             "projectID": 238222,
             "fileID": 5623554,
             "required": true
-        },
+        }
+        // Seus outros mods
+    ],
+    "mods": [
         {
-            "projectID": 433760,
-            "fileID": 6179103,
-            "required": true
-        },
-        {
-            "projectID": 416089,
-            "fileID": 5907378,
-            "required": true
-        },
-        {
-            "projectID": 686911,
-            "fileID": 6124853,
-            "required": true
-        },
-        {
-            "projectID": 256717,
-            "fileID": 5623730,
-            "required": true
-        },
-        {
-            "projectID": 250398,
-            "fileID": 6085645,
-            "required": true
-        },
-        {
-            "projectID": 361579,
-            "fileID": 5759669,
-            "required": true
-        },
-        {
-            "projectID": 60089,
-            "fileID": 5437297,
-            "required": true
-        },
-        {
-            "projectID": 634062,
-            "fileID": 5885734,
-            "required": true
-        },
-        {
-            "projectID": 407206,
-            "fileID": 6171102,
-            "required": true
-        },
-        {
-            "projectID": 32274,
-            "fileID": 6211502,
-            "required": true
-        },
-        {
-            "projectID": 858542,
-            "fileID": 5831691,
-            "required": true
+            "name": "testMod",
+            "downloadURL": "http://example.com/testMod",
+            "sha1": "dummysha1",
+            "size": 123456
         }
     ],
     "extfiles": [],
     "modrinthMods": [],
-    "mods": [],
     "overrides": "overrides"
 }
