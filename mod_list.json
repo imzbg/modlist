@@ -1,6 +1,6 @@
 {
     "formatVersion": 1,
-    "mods": [
+    "curseFiles": [
         {
             "projectID": 535489,
             "fileID": 5991568,
@@ -67,5 +67,8 @@
             "required": true
         }
     ],
+    "extfiles": [],
+    "modrinthMods": [],
+    "mods": [],
     "overrides": "overrides"
 }
